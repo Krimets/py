@@ -1,3 +1,4 @@
+# Buffer. Сумма 5 последующих чисел
 class Buffer:
     def __init__(self):
         self.d = []  # пустой список
